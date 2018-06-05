@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class ProyectoDos {
+public class ProyectoTwo {
     
     public static boolean isNumero(String numero){
         double num;
